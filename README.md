@@ -17,7 +17,7 @@ Happy Learning!
 
 
 ## Expectations
-
+ff
 - Write clean, well-commented code
 - Fully explain your responses where necessary
 - Refer to the lecture notes if you have questions
